@@ -5,5 +5,5 @@
 <p align="center"><sup>{nielang, cylin, kang_liao, yzhao}@bjtu.edu.cn, liushuaicheng@uestc.edu.cn</sup></p>
 
 <div align=center>
-<img src="https://github.com/nie-lang/DeepRectangling/blob/main/rectangling.jpg"/>
+<img src="https://github.com/nie-lang/RotationCorrection/blob/main/fig1.jpg"/>
 </div>
