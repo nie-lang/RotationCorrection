@@ -7,3 +7,4 @@
 <div align=center>
 <img src="https://github.com/nie-lang/RotationCorrection/blob/main/fig1.jpg"/>
 </div>
+<p align="center"><sup>Fig.1. Different solutions to correct the tilted image. Our solution (e) can eliminate the tilt without angle prior, while the others (b)(c)(d)(f)(g)(h) require an accurate rotated angle. The red square denotes the cropping region, and the arrow highlights the distorted area. The horizontal and vertical dotted lines are drawn to help observe the slight tilt.</sup></p>
