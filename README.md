@@ -3,3 +3,7 @@
 <p align="center"><sup>1</sup>Beijing Jiaotong University</p>
 <p align="center"><sup>2</sup>University of Electronic Science and Technology of China</p>
 <p align="center"><sup>{nielang, cylin, kang_liao, yzhao}@bjtu.edu.cn, liushuaicheng@uestc.edu.cn</sup></p>
+
+<div align=center>
+<img src="https://github.com/nie-lang/DeepRectangling/blob/main/rectangling.jpg"/>
+</div>
