@@ -8,3 +8,17 @@
 <img src="https://github.com/nie-lang/RotationCorrection/blob/main/fig1.jpg"/>
 </div>
 <p align="center"><sup>Fig.1. Different solutions to correct the tilted image. Our solution (e) can eliminate the tilt without angle prior, while the others (b)(c)(d)(f)(g)(h) require an accurate rotated angle. The red square denotes the cropping region, and the arrow highlights the distorted area. The horizontal and vertical dotted lines are drawn to help observe the slight tilt.</sup></p>
+
+## Code and Dataset
+Coming soon. 
+
+## Citation
+```
+@inproceedings{nie2022deep,
+  title={Deep Rectangling for Image Stitching: A Learning Baseline},
+  author={Nie, Lang and Lin, Chunyu and Liao, Kang and Liu, Shuaicheng and Zhao, Yao},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={5740--5748},
+  year={2022}
+}
+```
