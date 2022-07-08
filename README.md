@@ -1,4 +1,4 @@
-# Deep Rotation Correction without Angle Prior ([paper](https://arxiv.org/pdf/2207.03054.pdf))
+# Deep Rotation Correction without Angle Prior ([paper](https://arxiv.org/abs/2207.03054))
 <p align="center">Lang Nie<sup>1</sup>, Chunyu Lin<sup>1 *</sup>, Kang Liao<sup>1</sup>, Shuaicheng Liu<sup>2</sup>, Yao Zhao<sup>1</sup></p>
 <p align="center"><sup>1</sup>Beijing Jiaotong University</p>
 <p align="center"><sup>2</sup>University of Electronic Science and Technology of China</p>
