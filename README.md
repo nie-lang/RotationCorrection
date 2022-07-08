@@ -21,3 +21,7 @@ Coming soon.
   year={2022}
 }
 ```
+
+## References
+[1] Nie et al., “Depth-Aware Multi-Gird Deep Homogrpahy Estimation with Contextual Correlation,” TCSVT, 2021.  
+[2] Nie et al., “Deep Rectangling for Image Stitching: A Learning Baseline,” CVPR, 2022.  
