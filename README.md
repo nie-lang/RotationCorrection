@@ -21,4 +21,11 @@ Coming soon.
   pages={5740--5748},
   year={2022}
 }
+
+@article{huang2021rife,
+  title={Deep Rotation Correction without Angle Prior},
+  author={Nie, Lang and Lin, Chunyu and Liao, Kang and Liu, Shuaicheng and Zhao, Yao},
+  journal={arXiv preprint arXiv:2207.03054},
+  year={2022}
+}
 ```
