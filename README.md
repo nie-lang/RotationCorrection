@@ -20,8 +20,40 @@ Every example includes three items: a input image (a tilted image), a tilted ang
 
 Now, the dataset can be downloaded in in [Google Drive](https://drive.google.com/drive/folders/1y8964QKakL1zJsuzuivCx41_YkrsOKv_?usp=share_link) or [Baidu Cloud](https://pan.baidu.com/s/1WByNz64oNoSRbuzCgcnXGQ)(Extraction code: 1234).
 
-## Code
-Coming soon. 
+## Requirement
+* python 3.6
+* numpy 1.18.1
+* tensorflow 1.13.1
+
+More details about the environment can be found [here](https://github.com/nie-lang/DeepRectangling/issues/4).
+
+## Training
+#### Step 1: Download the pretrained vgg19 model
+Download [VGG-19](https://www.vlfeat.org/matconvnet/pretrained/#downloading-the-pre-trained-models). Search imagenet-vgg-verydeep-19 in this page and download imagenet-vgg-verydeep-19.mat. Then please place it to 'Codes/vgg19/' folder.
+
+#### Step 2: Train the network
+Modify the 'Codes/constant.py' to set the 'TRAIN_FOLDER'/'ITERATIONS'/'GPU'. In our experiment, we set 'ITERATIONS' to 150,000. 
+
+```
+python train.py
+```
+
+## Testing
+#### Pretrained model for deep rectangling
+Our pretrained rectangling model can be available at [Google Drive](https://drive.google.com/drive/folders/1gEsE-7QBPcbH-kfHqYYR67C-va7vztxO?usp=sharing) or [Baidu Cloud](https://pan.baidu.com/s/19jRzz_1E97X35j6qmWm_kg)(Extraction code: 1234). And place the four files to 'Codes/checkpoints/pretrained_model/' folder.
+#### Testing 
+Modidy the 'Codes/constant.py'to set the 'TEST_FOLDER'/'GPU'. The path for the checkpoint file can be modified in 'Codes/inference.py'.
+
+```
+python inference.py
+```
+#### Testing with arbitrary resolution images
+We have specified the path for other datasets in 'Codes/constant.py'. You can collect your own tilted images and place it to 'Other_dataset/input/'.
+
+```
+python inference2.py
+```
+The rectangling results can be found in 'Other_dataset/correction/'.
 
 ## Citation
 ```
