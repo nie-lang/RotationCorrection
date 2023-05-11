@@ -47,13 +47,13 @@ Modidy the 'Codes/constant.py'to set the 'TEST_FOLDER'/'GPU'. The path for the c
 ```
 python inference.py
 ```
-#### Testing with arbitrary resolution images
+#### Testing with your own data
 We have specified the path for other datasets in 'Codes/constant.py'. You can collect your own tilted images and place it to 'Other_dataset/input/'.
 
 ```
 python inference2.py
 ```
-The rectangling results can be found in 'Other_dataset/correction/'.
+The corrected results can be found in 'Other_dataset/correction/'.
 
 ## Citation
 ```
