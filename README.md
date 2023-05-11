@@ -40,7 +40,7 @@ python train.py
 
 ## Testing
 #### Pretrained model for deep rotation correction
-Our pretrained rectangling model can be available at [Google Drive](https://drive.google.com/drive/folders/1gEsE-7QBPcbH-kfHqYYR67C-va7vztxO?usp=sharing) or [Baidu Cloud](https://pan.baidu.com/s/1z66hGsCBmcI99ZP_p7blpw)(Extraction code: 1234). And place the four files to 'Codes/checkpoints/pretrained_model/' folder.
+Our pretrained rectangling model can be available at [Google Drive](https://drive.google.com/drive/folders/1CQ2usWn4qknAReSWrKeei_I86yMiq4tR?usp=sharing) or [Baidu Cloud](https://pan.baidu.com/s/1z66hGsCBmcI99ZP_p7blpw)(Extraction code: 1234). And place the four files to 'Codes/checkpoints/pretrained_model/' folder.
 #### Testing 
 Modidy the 'Codes/constant.py'to set the 'TEST_FOLDER'/'GPU'. The path for the checkpoint file can be modified in 'Codes/inference.py'.
 
