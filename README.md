@@ -57,12 +57,15 @@ The corrected results can be found in 'Other_dataset/correction/'.
 
 ## Citation
 ```
-@article{nie2022deep,
-  title={Deep Rotation Correction without Angle Prior},
+@ARTICLE{10128955,
   author={Nie, Lang and Lin, Chunyu and Liao, Kang and Liu, Shuaicheng and Zhao, Yao},
-  journal={arXiv preprint arXiv:2207.03054},
-  year={2022}
-}
+  journal={IEEE Transactions on Image Processing}, 
+  title={Deep Rotation Correction without Angle Prior}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TIP.2023.3275869}}
 ```
 
 ## References
