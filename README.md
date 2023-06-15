@@ -60,11 +60,11 @@ The corrected results can be found in 'Other_dataset/correction/'.
 @ARTICLE{10128955,
   author={Nie, Lang and Lin, Chunyu and Liao, Kang and Liu, Shuaicheng and Zhao, Yao},
   journal={IEEE Transactions on Image Processing}, 
-  title={Deep Rotation Correction without Angle Prior}, 
+  title={Deep Rotation Correction Without Angle Prior}, 
   year={2023},
-  volume={},
+  volume={32},
   number={},
-  pages={1-1},
+  pages={2879-2888},
   doi={10.1109/TIP.2023.3275869}}
 ```
 
